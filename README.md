@@ -6,10 +6,10 @@ Bem-vindo ao repositório da atividade Boletim Escolar desenvolvida em Java! Est
 Este projeto em Java implementa um sistema simples de boletim escolar. Através da inserção de notas em disciplinas específicas, o sistema calcula a média do aluno e determina sua situação com base em critérios pré-definidos.
 
 ## Funcionalidades
-Inserção de Notas: Permite inserir as notas do aluno em diferentes disciplinas.
-Cálculo da Média: Calcula a média das notas inseridas pelo aluno.
-Determinação da Situação: Com base na média calculada, determina se o aluno está aprovado, reprovado ou em recuperação.
-Exibição do Boletim: Apresenta a situação do aluno e suas médias de notas.
+- Inserção de Notas: Permite inserir as notas do aluno em diferentes disciplinas.
+- Cálculo da Média: Calcula a média das notas inseridas pelo aluno.
+- Determinação da Situação: Com base na média calculada, determina se o aluno está aprovado, reprovado ou em recuperação.
+- Exibição do Boletim: Apresenta a situação do aluno e suas médias de notas.
 
 ## Como Utilizar
 Clone este repositório em sua máquina local.
